@@ -1,3 +1,5 @@
+matrix_token.json
+chat_store/
 build/
 dist/
 *.egg-info
